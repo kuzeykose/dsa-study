@@ -6,21 +6,21 @@ Selam! Çalışma grubumuzun ilk haftasına giriyoruz! Bu hafta **Arrayleri** ç
 
 ### Okumalar
 
-https://www.guru99.com/array-data-structure.html
-Data Structures and Algorithms in Java, Michael T. Goodrich (Chapter 3.1 - Using Arrays, p104-110)
+- https://www.guru99.com/array-data-structure.html
+- Data Structures and Algorithms in Java, Michael T. Goodrich (Chapter 3.1 - Using Arrays, p104-110)
 
 ### Videolar
 
-https://www.coursera.org/lecture/data-structures/arrays-OsBSF
+- https://www.coursera.org/lecture/data-structures/arrays-OsBSF
 
 ### LeetCode
 
-https://leetcode.com/problems/contains-duplicate/
-https://leetcode.com/problems/valid-anagram/
-https://leetcode.com/problems/two-sum/
-https://leetcode.com/problems/group-anagrams/
-https://leetcode.com/problems/valid-palindrome/
-https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+- https://leetcode.com/problems/contains-duplicate/
+- https://leetcode.com/problems/valid-anagram/
+- https://leetcode.com/problems/two-sum/
+- https://leetcode.com/problems/group-anagrams/
+- https://leetcode.com/problems/valid-palindrome/
+- https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 
 ## Grup 2
 
@@ -30,17 +30,17 @@ https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 
 ### LeetCode
 
-https://leetcode.com/problems/contains-duplicate/
-https://leetcode.com/problems/valid-anagram/
-https://leetcode.com/problems/two-sum/
-https://leetcode.com/problems/group-anagrams/
-https://leetcode.com/problems/top-k-frequent-elements/
-https://leetcode.com/problems/product-of-array-except-self/
-https://leetcode.com/problems/valid-sudoku/
-https://leetcode.com/problems/encode-and-decode-strings/
-https://leetcode.com/problems/longest-consecutive-sequence/
-https://leetcode.com/problems/valid-palindrome/
-https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
-https://leetcode.com/problems/3sum/
-https://leetcode.com/problems/container-with-most-water/
-https://leetcode.com/problems/trapping-rain-water/
+- https://leetcode.com/problems/contains-duplicate/
+- https://leetcode.com/problems/valid-anagram/
+- https://leetcode.com/problems/two-sum/
+- https://leetcode.com/problems/group-anagrams/
+- https://leetcode.com/problems/top-k-frequent-elements/
+- https://leetcode.com/problems/product-of-array-except-self/
+- https://leetcode.com/problems/valid-sudoku/
+- https://leetcode.com/problems/encode-and-decode-strings/
+- https://leetcode.com/problems/longest-consecutive-sequence/
+- https://leetcode.com/problems/valid-palindrome/
+- https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+- https://leetcode.com/problems/3sum/
+- https://leetcode.com/problems/container-with-most-water/
+- https://leetcode.com/problems/trapping-rain-water/

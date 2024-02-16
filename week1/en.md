@@ -4,7 +4,7 @@ Hello! We are entering the first week of our study group! This week we will focu
 
 ## Group 1
 
-###Readings
+### Readings
 
 - https://www.guru99.com/array-data-structure.html
 - Data Structures and Algorithms in Java, Michael T. Goodrich (Chapter 3.1 - Using Arrays, p104-110)

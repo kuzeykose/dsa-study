@@ -1,6 +1,3 @@
-## JavaScript
-
-```js
 /**
  * @param {number[]} nums
  * @return {boolean}

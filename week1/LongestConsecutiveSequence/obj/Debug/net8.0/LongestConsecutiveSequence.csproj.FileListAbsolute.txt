@@ -1,0 +1,15 @@
+/Users/busra/Desktop/leetcode/dsa-study/week1/LongestConsecutiveSequence/bin/Debug/net8.0/LongestConsecutiveSequence
+/Users/busra/Desktop/leetcode/dsa-study/week1/LongestConsecutiveSequence/bin/Debug/net8.0/LongestConsecutiveSequence.deps.json
+/Users/busra/Desktop/leetcode/dsa-study/week1/LongestConsecutiveSequence/bin/Debug/net8.0/LongestConsecutiveSequence.runtimeconfig.json
+/Users/busra/Desktop/leetcode/dsa-study/week1/LongestConsecutiveSequence/bin/Debug/net8.0/LongestConsecutiveSequence.dll
+/Users/busra/Desktop/leetcode/dsa-study/week1/LongestConsecutiveSequence/bin/Debug/net8.0/LongestConsecutiveSequence.pdb
+/Users/busra/Desktop/leetcode/dsa-study/week1/LongestConsecutiveSequence/obj/Debug/net8.0/LongestConsecutiveSequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/busra/Desktop/leetcode/dsa-study/week1/LongestConsecutiveSequence/obj/Debug/net8.0/LongestConsecutiveSequence.AssemblyInfoInputs.cache
+/Users/busra/Desktop/leetcode/dsa-study/week1/LongestConsecutiveSequence/obj/Debug/net8.0/LongestConsecutiveSequence.AssemblyInfo.cs
+/Users/busra/Desktop/leetcode/dsa-study/week1/LongestConsecutiveSequence/obj/Debug/net8.0/LongestConsecutiveSequence.csproj.CoreCompileInputs.cache
+/Users/busra/Desktop/leetcode/dsa-study/week1/LongestConsecutiveSequence/obj/Debug/net8.0/LongestConsecutiveSequence.sourcelink.json
+/Users/busra/Desktop/leetcode/dsa-study/week1/LongestConsecutiveSequence/obj/Debug/net8.0/LongestConsecutiveSequence.dll
+/Users/busra/Desktop/leetcode/dsa-study/week1/LongestConsecutiveSequence/obj/Debug/net8.0/refint/LongestConsecutiveSequence.dll
+/Users/busra/Desktop/leetcode/dsa-study/week1/LongestConsecutiveSequence/obj/Debug/net8.0/LongestConsecutiveSequence.pdb
+/Users/busra/Desktop/leetcode/dsa-study/week1/LongestConsecutiveSequence/obj/Debug/net8.0/LongestConsecutiveSequence.genruntimeconfig.cache
+/Users/busra/Desktop/leetcode/dsa-study/week1/LongestConsecutiveSequence/obj/Debug/net8.0/ref/LongestConsecutiveSequence.dll

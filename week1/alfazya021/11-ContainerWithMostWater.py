@@ -3,6 +3,7 @@ class Solution:
         first = 0
         second = len(height) - 1
         max = 0
+        
         while first != second:
             currentVolume = (second - first) * min(height[first], height[second])
             if currentVolume > max:

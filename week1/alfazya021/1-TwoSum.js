@@ -8,7 +8,9 @@ var twoSum = function(nums, target) {
     
     for(let i = 0; i < nums.length; i++) {
         let value = dp.get(target-nums[i])
+
         if(value !== undefined && i != value) return [value,i]
+        
         dp.set(nums[i],i)
     }
     

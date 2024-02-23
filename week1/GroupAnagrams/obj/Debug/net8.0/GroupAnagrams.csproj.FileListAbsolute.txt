@@ -1,0 +1,15 @@
+/Users/busra/Desktop/leetcode/GroupAnagrams/bin/Debug/net8.0/GroupAnagrams
+/Users/busra/Desktop/leetcode/GroupAnagrams/bin/Debug/net8.0/GroupAnagrams.deps.json
+/Users/busra/Desktop/leetcode/GroupAnagrams/bin/Debug/net8.0/GroupAnagrams.runtimeconfig.json
+/Users/busra/Desktop/leetcode/GroupAnagrams/bin/Debug/net8.0/GroupAnagrams.dll
+/Users/busra/Desktop/leetcode/GroupAnagrams/bin/Debug/net8.0/GroupAnagrams.pdb
+/Users/busra/Desktop/leetcode/GroupAnagrams/obj/Debug/net8.0/GroupAnagrams.GeneratedMSBuildEditorConfig.editorconfig
+/Users/busra/Desktop/leetcode/GroupAnagrams/obj/Debug/net8.0/GroupAnagrams.AssemblyInfoInputs.cache
+/Users/busra/Desktop/leetcode/GroupAnagrams/obj/Debug/net8.0/GroupAnagrams.AssemblyInfo.cs
+/Users/busra/Desktop/leetcode/GroupAnagrams/obj/Debug/net8.0/GroupAnagrams.csproj.CoreCompileInputs.cache
+/Users/busra/Desktop/leetcode/GroupAnagrams/obj/Debug/net8.0/GroupAnagrams.sourcelink.json
+/Users/busra/Desktop/leetcode/GroupAnagrams/obj/Debug/net8.0/GroupAnagrams.dll
+/Users/busra/Desktop/leetcode/GroupAnagrams/obj/Debug/net8.0/refint/GroupAnagrams.dll
+/Users/busra/Desktop/leetcode/GroupAnagrams/obj/Debug/net8.0/GroupAnagrams.pdb
+/Users/busra/Desktop/leetcode/GroupAnagrams/obj/Debug/net8.0/GroupAnagrams.genruntimeconfig.cache
+/Users/busra/Desktop/leetcode/GroupAnagrams/obj/Debug/net8.0/ref/GroupAnagrams.dll

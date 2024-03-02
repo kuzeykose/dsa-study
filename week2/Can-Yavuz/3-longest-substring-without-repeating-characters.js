@@ -3,7 +3,7 @@
  * @return {number}
  */
 var lengthOfLongestSubstring = function (s) {
-  let result = 0;
+  let res = 0;
   const characters = new Set();
   for (let l = 0, r = 0; r < s.length; r++) {
     while (characters.has(s[r])) {
@@ -11,7 +11,7 @@ var lengthOfLongestSubstring = function (s) {
       l++;
     }
     characters.add(s[r]);
-    result = Math.max(result, r - l + 1);
+    res = Math.max(res, r - l + 1);
   }
-  return result;
+  return res;
 };

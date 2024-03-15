@@ -37,4 +37,4 @@ template <typename E> void SLLArray<E>::push(const E element) {
 
 template <typename E> const E SLLArray<E>::top() const { return list.first(); }
 
-template <typename E> E SLLArray<E>::pop() { return list.first(); }
+template <typename E> E SLLArray<E>::pop() { return list.removeFirst(); }

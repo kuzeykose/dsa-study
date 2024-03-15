@@ -8,7 +8,7 @@
 
 template <typename E> class ArrayStack : public Stack<E> {
 private:
-  static constexpr int CAPACITY = 1000;
+  int CAPACITY;
   std::shared_ptr<E[]> data;
   int t;
 
@@ -29,10 +29,11 @@ public:
 };
 
 template <typename E>
-ArrayStack<E>::ArrayStack() : data(new E[CAPACITY]), t(-1) {}
+ArrayStack<E>::ArrayStack() : CAPACITY(1000), data(new E[CAPACITY]), t(-1) {}
 
 template <typename E>
-ArrayStack<E>::ArrayStack(int capacity) : data(new E[capacity]), t(-1) {}
+ArrayStack<E>::ArrayStack(int capacity)
+    : CAPACITY(capacity), data(new E[CAPACITY]), t(-1) {}
 
 template <typename E> int ArrayStack<E>::size() const { return (t + 1); }
 

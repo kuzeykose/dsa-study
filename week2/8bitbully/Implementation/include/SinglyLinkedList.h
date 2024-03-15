@@ -78,7 +78,7 @@ template <typename T> bool SinglyLinkedList<T>::isEmpty() const {
 
 template <typename T> T SinglyLinkedList<T>::first() const {
   if (isEmpty()) {
-    std::logic_error("List is empty");
+    throw std::logic_error("List is empty");
   }
 
   return head->getElement();
@@ -86,7 +86,7 @@ template <typename T> T SinglyLinkedList<T>::first() const {
 
 template <typename T> T SinglyLinkedList<T>::last() const {
   if (isEmpty()) {
-    std::logic_error("List is empty");
+    throw std::logic_error("List is empty");
   }
 
   return tail->getElement();
@@ -117,7 +117,7 @@ template <typename T> void SinglyLinkedList<T>::addLast(T e) {
 
 template <typename T> T SinglyLinkedList<T>::removeFirst() {
   if (isEmpty()) {
-    std::logic_error("List is empty");
+    throw std::logic_error("List is empty");
   }
   T answer = head->getElement();
   head = head->getNext();

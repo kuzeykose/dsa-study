@@ -1,19 +1,17 @@
 public class Solution {
     public int MinEatingSpeed(int[] piles, int h) {
-        var minEatingRate = 1; 
-        var maxEatingRate = int.MinValue; 
-        foreach (var pile in piles) {
-            maxEatingRate = Math.Max(maxEatingRate, pile); 
-        }
-        var minBanTotalPerHour = maxEatingRate;
+        int minEatingRate = 1, maxEatingRate = piles.Max(); 
+        int minBanTotalPerHour = maxEatingRate;
 
         while(minEatingRate <= maxEatingRate){
-            var midEatingRate = (minEatingRate + maxEatingRate) / 2;  
-            var calculatedMinHours = 0;
+            int midEatingRate = minEatingRate + (maxEatingRate - minEatingRate) / 2;  
+            int calculatedMinHours = 0;
 
-            foreach(var bananas in piles){
+            foreach(int bananas in piles){
                 calculatedMinHours += (int)Math.Ceiling((double)bananas / midEatingRate);
             }
+            
+            if(calculatedMinHours < 0) break;
 
             if(calculatedMinHours <= h){
                 minBanTotalPerHour = Math.Min(midEatingRate, minBanTotalPerHour);
